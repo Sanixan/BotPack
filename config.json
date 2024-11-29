@@ -22,10 +22,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
+  "BOTNAME": "sani",
   "PREFIX": "?",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "61565185946982",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
